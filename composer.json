@@ -1,0 +1,5 @@
+{
+    "require": {
+        "abeautifulsite/simple-php-captcha": "^1.0"
+    }
+}
